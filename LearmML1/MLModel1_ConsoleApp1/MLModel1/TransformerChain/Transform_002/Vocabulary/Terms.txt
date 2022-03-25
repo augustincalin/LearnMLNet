@@ -1,0 +1,4 @@
+# Number of terms = 3
+0	Rechnung
+1	BSP-Beleg
+2	Kontoauszug
